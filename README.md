@@ -1,8 +1,5 @@
 Build-A-Personal-Portfolio-Webpage
-FreeCodeCamp.com Responsive Web Design Certification Project - "Build A Personal Portfolio Webpage" https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage FreeCodeCamp - Build a Personal Portfolio Webpage.
-
-Responsive Web Design Projects - Build a Personal Portfolio Webpage Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNBOYG.
-
+ 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
@@ -28,8 +25,6 @@ User Story #9: My portfolio should have at least one media query.
 User Story #10: The height of the welcome section should be equal to the height of the viewport.
 
 User Story #11: The navbar should always be at the top of the viewport.
-
-You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
